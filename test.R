@@ -4,5 +4,10 @@
 #Kiwi
 #Grapes
 
-getwd()
-setwd("C:/Users/M335313/OneDrive - MerckGroup/Documents/r-shiny-demo")
+#getwd()
+#setwd("C:/Users/M335313/OneDrive - MerckGroup/Documents/r-shiny-demo")
+
+##list of names
+#Saya
+#Rita
+#Enzo
